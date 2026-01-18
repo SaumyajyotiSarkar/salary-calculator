@@ -4,6 +4,8 @@ import ResultCard from "../components/ResultCard.jsx";
 import CompareCard from "../components/CompareCard.jsx";
 import { calculateSalary, compareSalary } from "../api/salaryApi.js";
 import SalaryChart from "../components/SalaryChart.jsx";
+import Header from "../components/Header.jsx";
+
 
 
 export default function Home() {
@@ -74,6 +76,7 @@ export default function Home() {
                     gap: 16,
                 }}
             >
+            <Header />
                 <SalaryForm onSubmit={handleSubmit} onReset={handleResetUI} loading={loading} />
 
                 {error && (
