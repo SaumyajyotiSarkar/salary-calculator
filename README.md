@@ -14,12 +14,12 @@ It also provides **Old vs New regime comparison** and a **monthly breakdown char
 
 ## Features
 
-✅ Calculate **Gross Monthly**, **Employee PF**, **Income Tax**, **Professional Tax** and **In-hand Monthly**  
-✅ Compare **Old vs New Tax Regime** and show **best regime**  
-✅ Interactive **Recharts bar graph** (PF vs Tax vs In-hand)  
-✅ Form validation (backend + UI level)  
-✅ Reset button to clear results and restore defaults  
-✅ Deployed end-to-end (Frontend + Backend)
+-  Calculate **Gross Monthly**, **Employee PF**, **Income Tax**, **Professional Tax** and **In-hand Monthly**  
+-  Compare **Old vs New Tax Regime** and show **best regime**  
+-  Interactive **Recharts bar graph** (PF vs Tax vs In-hand)  
+-  Form validation (backend + UI level)  
+-  Reset button to clear results and restore defaults  
+-  Deployed end-to-end (Frontend + Backend)
 
 ---
 
